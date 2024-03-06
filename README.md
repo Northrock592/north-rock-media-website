@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>North Rock Media - Visual Stories. Exceptional Content.</title>
-  <style>
-    /* Add your CSS styles here */
-    /* This is just a basic example */
     body {
       font-family: Arial, sans-serif;
       margin: 0;
